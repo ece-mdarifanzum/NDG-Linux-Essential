@@ -1,0 +1,226 @@
+NDG Linux Essential
+
+Linux Essentials 2.0 Chapter 3 Exam Answers
+Posted on October 17, 2019 by Admin
+NDG Linux Essentials 2.0 Chapter 3 Exam Answers
+The Samba application is a:
+Security Server
+File Server
+Mail Server
+Web Server
+Which of the following are examples of desktop software?
+(choose two)
+Music player
+File share
+Web browser
+Compiler
+Web server
+If you wanted to set up a blog, which software would be most helpful?
+Samba
+MySQL
+Postfix
+Dovecot
+WordPress
+Which of the following pieces of software deal with file sharing?
+(choose three)
+X-Windows
+PostgreSQL
+Netatalk
+Samba
+NFS
+If you wanted to create and print an invoice, which software could you use?
+Evolution
+LibreOffice
+GNOME
+Compiz
+Firefox
+POP and IMAP are related to:
+Serving web pages
+Reading and writing music
+Email
+Letting users log in to multiple servers with 1 set of credentials
+Sharing files
+When a computer boots, it can get its network information through:
+LDAP
+DNS
+DHCP
+SMTP
+X11
+Which of the following are examples of text editors?
+(choose four)
+nano
+Yum
+pico
+vim
+emacs
+A package manager:
+(choose two)
+Downloads software from the Internet
+Keeps track of which files belong to which packages
+Can optionally repartition your disk to make room for Linux
+Performs a fresh install of Linux
+Emails you when software is out of date
+An interpreted programming language:
+(choose two)
+Takes fewer resources to run than a compiled language
+Is converted into machine specific instructions as the program runs
+Requires a linking step but no compilation step
+Tends to offer more features than compiled languages
+Requires a compilation step but no linking step
+Which of the following are true about compiled programming languages?
+Ruby is a compiled language
+Compiled languages are great for system administration tasks like scripting
+C is a compiled language
+Perl is a compiled language
+A programmer is usually more productive when using a compiled language
+Which package manager is used in Fedora, a Red Hat derived system?
+tar
+bash
+yum
+vim
+apt-get
+The Linux shell:
+(choose three)
+Is customizable
+Has a built-in text editor
+Allows you to launch programs
+Has a scripting language
+Is responsible for tracking the location of configuration files
+Which application would you use to edit and piece together sound files to make a podcast?
+Audiolicious
+GIMP
+Thunderbird
+Bash
+Audacity
+The two main families of Linux shells are:
+(choose two)
+Emacs
+C Shell
+Bourne Shell
+Python Shell
+Korn shell
+Which server software would you use to create a company directory that you could search and authenticate against?
+bind
+OpenLDAP
+Samba
+ISC DHCP
+Netatalk
+A Mail Transfer Agent’s primary purpose is to:
+Serve email to end clients
+Deliver mail between servers
+Manage the end user’s inbox
+Filter out spam
+Act as a gateway between faxes and email
+Which of the following are examples of a web server?
+(choose two)
+NFS
+postfix
+WordPress
+Nginx
+Apache
+If you wanted to let a Linux machine share files with Windows clients and servers, you would use:
+Netatalk
+DNS
+Samba
+NFS
+bind
+Virtualization means:
+A user can connect to a server over the network and use a virtual console
+Many users can share one hard drive
+A machine can swap memory to disk
+A single host can be split up into multiple guests
+Two users get different memory spaces on the same machine
+In virtualization, what are the host and guest?
+(choose two)
+The terms can be used interchangeably
+A guest is a virtual machine
+A host is a virtual machine
+The host is the machine that runs the virtual machines
+The guest is the machine that runs the virtual machines
+Which of the following are traits of cloud computing?
+(choose two)
+You don’t have to worry about performance any more
+Resources can be accessed from anywhere over a network
+Scales IT resources so you pay for what you use
+You own the hardware but pay for it over time
+Only Linux works in cloud computing
+If you wanted to write a report that was to be printed, you would probably use:
+A wiki
+Adobe Flash
+Firefox
+Chrome
+LibreOffice
+To protect your privacy online, you can configure your computer to check for updates periodically.
+True or False?
+True
+False
+Which of the following is a tool that helps you anonymize your Internet browsing?
+Web proxy
+Tor Browser
+Iptables
+AnonFirefox
+CookieCleaner
+Cloud computing is:
+Is made possible by faster internet speeds
+Is useful for both business and home users
+Allows users in different geographical regions to work together in real time
+Requires fewer resources because systems are shared among many users
+All are correct
+The term for individual computers running multiple systems at the same time is:
+MultiRun
+Cloud priority
+Distribution
+Virtualization
+Googleization
+Which of the following are traits of a multiuser operating system?
+(choose three)
+Many users can log in simultaneously with a unique account
+Users can protect their information from other users
+Resources are shared between users
+Each user can only log in once per day
+An administrative user gets a dedicated CPU
+If you want to store logins and passwords for different websites in a secure manner, you could use:
+A text file in your home directory
+A LibreOffice document
+A sticky note on your monitor
+KeePassX
+In a spiral bound notebook in your file cabinet
+Two components that provide the ability to implement a firewall include:
+(choose two)
+iptables
+gufw
+ifconfig
+Cerberus
+ipfw
+What are tradeoffs of increasing the level of privacy you have in your web browser?
+(choose two)
+You may have to explicitly permit some cookies to be saved
+Sites may not work properly
+You may get viruses
+Websites may load slower
+Images won’t load properly
+Social network “like” buttons can track your activity across the Internet.
+True or False?
+True
+False
+Which of the following are properties of a strong password?
+(choose three)
+At least 10 characters long
+Based on easy to remember items like birthdays
+Includes symbols
+Long so that it can be reused on multiple sites
+A mix of upper and lower case
+What can be done to prevent unauthorized users from accessing your computer remotely?
+(choose two)
+Block third party cookies
+Turn on a firewall
+Block all cookies
+Use strong passwords on all user accounts
+Don’t use wireless networks – only wired
+In graphical mode, you can get to a shell by running which applications?
+(choose two)
+Terminal
+Gbash
+console
+Xterm
+Guiterm
