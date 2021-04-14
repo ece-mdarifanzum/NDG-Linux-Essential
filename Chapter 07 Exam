@@ -1,0 +1,28 @@
+Hidden files are files that begin with what character?  A period (.)
+
+What option for the ls command will display all files, including hidden files? -a
+
+The tilde (~) is used to represent: A user's home directory
+
+Which of the following commands can be used to access the home directory of the user "bob" while logged in as root? 
+cd ~bob
+
+cd /home/bob
+
+The double dot (..) can be used with the cd command to represent:
+The directory above the current working directory
+
+The cd command by itself will take you to what directory?
+Your home directory
+
+The double dot (..) can be used to represent the directory...     ...above the current directory.
+
+The first character in a long listing (ls -l) indicates:
+
+If something is a file, directory, or symbolic link
+
+The ls command color codes results by default.
+True or False? ans False
+
+The command ls -S will sort files:
+By size, largest to smallest
