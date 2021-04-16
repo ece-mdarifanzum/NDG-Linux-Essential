@@ -1,0 +1,33 @@
+1. A file begins with #!/bin/csh. This means:
+ans:Running the script will invoke /bin/csh to interpret the rest of the file
+2.Which are appropriate editors for writing shell scripts?
+ans : vi Nano
+
+3.Most of nano’s commands take the form of:
+Control and another character
+
+4.Which of the following are correct about for and while loops?
+(choose two)
+ans :
+while loops operate over a fixed list of items
+while loops have a test each cycle to determine if it should run again
+
+5.Which shell command accepts input from the user’s keyboard?
+ans: read
+
+6.How would you finish your script with an exit code of 42?
+Exit 42
+
+7. The if command looks for what exit code to consider a condition to be true?
+
+0
+
+8.The number of users logged in is in a variable called USERS. How would you test to see if there are 5 users logged in?
+ans: test $USERS –eq 5
+
+
+9.A conditional that lets you make multiple comparisons with a pattern is called:
+case
+
+10.How would you write a test that says "if /tmp/foo is a directory or USERS is greater than 5"?
+ans:test –d /tmp/foo –o $USERS –gt 5
