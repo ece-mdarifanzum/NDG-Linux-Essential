@@ -1,0 +1,39 @@
+1 .A successful command may, or may not print output to STDOUT.
+True or False?
+Ans: TRUE
+
+2.Which of the following commands will direct error messages to the file, error.log?
+ans: ls /root 2> error.log
+
+3.A pipe allows you to...
+Ans: ...send the output of one command to another.
+
+4.The grep command can be used with glob characters.
+True or False?
+
+Ans:True 
+
+5. Which of the following commands will display only lines that begin with start?
+Ans: grep ^start file.txt
+
+6. Which of the following commands will display lines that contain either start or end?
+Ans:egrep (start|end) file.txt
+
+7.Which option for the cut command is used to specify a delimiter?
+Ans: -d
+
+8.Which option for the cut command is used to specify the field?
+Ans: -f
+
+9.Which option for the wc command will print the total number of words in a file?
+
+Ans: -w
+
+10. Which command can be used to print line numbers?
+Ans: nl 
+
+
+
+
+
+
